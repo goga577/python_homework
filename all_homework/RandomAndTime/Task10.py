@@ -1,0 +1,2 @@
+from MyTable import give_me_table_multiplication
+give_me_table_multiplication()
